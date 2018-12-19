@@ -4,6 +4,9 @@ body{
 	color:yellow;
 	font-size:20px;
 }
+.content{
+	background:green;
+}
 .footer{
 	background:white;
 }
